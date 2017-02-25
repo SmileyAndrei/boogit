@@ -25,10 +25,10 @@
 	}
 	#video {
 		border: 6px solid gold;
-		border-bottom-right-radius: 5em;
-		border-top-left-radius: 5em;
-		border-bottom-left-radius: 5em;
-		border-top-right-radius: 5em;
+		border-bottom-right-radius: 3em;
+		border-top-left-radius: 3em;
+		border-bottom-left-radius: 3em;
+		border-top-right-radius: 3em;
 
 	}
 	
