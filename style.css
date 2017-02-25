@@ -1,6 +1,6 @@
 	body{
+		background-image:url("wall.png");
 		text-align: center;
-		background-color: #99CC99; 
 		font-size: 18px;
 		font-family:  arial narrow;
 	}
