@@ -1,0 +1,62 @@
+	body{
+		text-align: center;
+		background-color: #99CC99; 
+		font-size: 18px;
+		font-family:  arial narrow;
+	}
+	h1 {
+		text-align: left;
+		color: red;
+		font-size: 18px;
+	}
+	h2{
+		text-align: right;
+		color: blue;
+		font-size: 18px;
+	}
+	h3{
+		color: red;
+		font-size: 18px;
+	}
+	#poza-artist {
+		border: 6px solid gold;
+		border-bottom-right-radius: 5em;
+		border-top-left-radius: 5em;
+	}
+	#video {
+		border: 6px solid gold;
+		border-bottom-right-radius: 5em;
+		border-top-left-radius: 5em;
+		border-bottom-left-radius: 5em;
+		border-top-right-radius: 5em;
+
+	}
+	
+	div:hover {
+		transform: rotateY(180deg); 
+	}
+	m2 {
+		color: green;
+		font-size: 60px;
+	}
+	m2:hover {
+		color: gold;
+		font-size: 63px;
+
+	}
+	m5:hover {
+		color: green;
+	}
+	m6 {
+		color: magenta;
+		font-size: 30px;
+	}
+	.link-bruno {
+        color: #0066FF;
+        font-size: 30px;
+        text-decoration: none;
+      }
+      a:hover {
+      	color: gold;
+      }
+
