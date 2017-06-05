@@ -1,0 +1,163 @@
+
+@media (max-width: 670px){
+	.text1{		
+		font-size:20px;
+	}
+}
+
+@media (max-width: 670px){
+	.text3{		
+		font-size:15px;
+	}
+}
+
+@media (min-width: 670px){
+	.text3{		
+		font-size:20px;
+	}
+}
+
+@media (max-width: 670px){
+	.text4{		
+		font-size:20px;
+	}
+}
+
+@media (min-width: 670px){
+	.text4{		
+		font-size:40px;
+	}
+}
+
+
+
+.warp1{
+	background-image:url("https://www.walldevil.com/wallpapers/a77/background-color-solid-blue-tiffany-images.jpg");
+	background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 440px;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+
+.text1{
+	padding-top: 70px;
+}
+
+
+.buton1{
+	width: 300px;
+	opacity: 0.9;
+}
+.buton2{
+	margin: 10px;
+}
+
+.spacer1{
+	padding-top: 35px;
+}
+
+.spacer2{
+	padding-top: 10px;
+}
+
+.text2{
+	font-size: 15px;
+}
+
+.link1{
+	text-decoration: none;
+}
+
+.warp2{
+	background-color: white;
+	margin-top: 30px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-right-radius: 0.2em;
+	border-top-left-radius: 0.2em;
+	box-shadow: 1px 1px 7px #000000;
+}
+
+.poza-profil{
+	
+}
+
+.poza1{
+	width: 25%;
+	float: left;
+	
+}
+
+.bara1{
+	width: 100%;
+	border-top-right-radius: 0.2em;
+	border-top-left-radius: 0.2em;
+	background-color: #1abc9c;
+	height: 20px;
+	opacity: 0.5;
+}
+.text3{
+	color: black;
+	
+}
+
+.text4{
+	
+}
+.warp3{
+	padding-top: 20px;
+	
+}
+
+.text5{
+	font-family: 'Great Vibes', cursive;
+	font-size: 40px;
+
+}
+.text6{
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 23px;
+	color: #1abc9c;
+}
+
+.text7{
+	font-size: 25px;
+}
+.text8{
+	font-size:30px;
+	color: red;
+}
+
+
+.warp4{
+	background-color: #34495e;
+	width: 100%;
+}
+
+.warp5{
+	margin-top: 80px;
+	color: #bdc3c7;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 40px;
+	text-align: center;
+}
+
+.alineat2{
+	text-align: left;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+
+.thumbnail {margin-bottom:6px;}
+
+.carousel-control.left,.carousel-control.right{
+  background-image:none;
+  margin-top:10%;
+  width:5%;
+}
